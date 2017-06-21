@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.health.binge.hibernate">
+	<class name="Supporter" table="hospital">
+		<id name="id" column="h_id">
+			<generator class="increment" />
+		</id>
+		<property name="password" column="pass" />
+		<property name="role" column="designation" />
+	</class>
+	<class name="User" table="patient">
+		<id name="p_id" column="p_id">
+		</id>
+
+		<property name="password" column="pass" />
+		<property name="step" column="step" />
+		<property name="s_date" column="s_date" />
+		<property name="f_name" column="f_name" />
+		<property name="l_name" column="l_name" />
+		<many-to-one name="Supporter"
+			class="com.uncc.health.binge.hibernate.Supporter" column="h_id"
+			unique="true" not-null="true" cascade="all" lazy="false" fetch="join" />
+	</class>
+
+	<class name="DailyData" table="daily_data">
+		<id name="d_id" column="d_id">
+			<generator class="increment" />
+		</id>
+		<property name="p_id" column="p_id" />
+		<property name="servings" column="servings" />
+		<property name="no_of_day" column="no_of_day" />
+		<property name="i_date" column="i_date"/>
+		<property name="a_date" column="a_date"/>
+		<property name="food" column="food" />
+		<property name="context" column="context" />
+		<property name="feelings" column="feelings" />
+		<property name="binge" column="binge" />
+		<property name="vld" column="vld" />
+		<property name="img_url" column="img_url"/>
+		<!-- many-to-one name="User" class="com.uncc.health.binge.hibernate.User" 
+			column="p_id" unique="true" not-null="true" cascade="all" lazy="false" fetch="join" 
+			/ -->
+	</class>
+
+	<class name="PhysicalData" table="pysical_activity">
+		<id name="pa_id" column="pa_id">
+			<generator class="increment" />
+		</id>
+		<property name="p_id" column="p_id" />
+		<property name="activity" column="activity" />
+		<property name="no_of_day" column="no_of_day" />
+		<property name="i_date" column="i_date" />
+		<property name="a_date" column="a_date" />
+		<property name="duration" column="duration" />
+		<!-- many-to-one name="User" class="com.uncc.health.binge.hibernate.User" 
+			column="p_id" unique="true" not-null="true" cascade="none" lazy="false" fetch="select" 
+			/ -->
+	</class>
+	<!-- Weekly Data table mapping -->
+	<!-- binge,vld,physical_activity,good_days,weight,fruit_vegetables -->
+	<class name="WeeklyData" table="weekly_data">
+		<id name="w_id" column="w_id">
+			<generator class="increment" />
+		</id>
+		<property name="p_id" column="p_id" />
+		<property name="binge" column="binge" />
+		<property name="vld" column="vld" />
+		<property name="i_date" column="i_date" />
+		<property name="a_date" column="a_date" />
+		<property name="physical_activity" column="physical_activity" />
+		<property name="good_days" column="good_days" />
+		<property name="weight" column="weight" />
+		<property name="fruit_vegetables" column="fruit_vegetables" />
+		<property name="event_data" column="event_data" />
+
+		<!-- many-to-one name="User" class="com.uncc.health.binge.hibernate.User" 
+			column="p_id" unique="true" not-null="true" cascade="none" lazy="false" fetch="select" 
+			/ -->
+	</class>
+
+	<!-- Notification table mapping -->
+	<class name="Notifications" table="notifications">
+		<id name="notification_id" column="notification_id">
+			<generator class="increment" />
+		</id>
+		<property name="p_id" column="p_id"/>
+		<property name="type" column="notif_type"/>
+		<property name="notification_text" column="notification_text" />
+		<property name="created_date_time" column="created_date" />
+
+		<!-- many-to-one name="User" class="com.uncc.health.binge.hibernate.User" 
+			column="p_id" unique="true" not-null="true" cascade="none" lazy="false" fetch="select" 
+			/ -->
+	</class>
+
+	<!-- Appointment table mapping -->
+	<class name="Appointment" table="appointment">
+		<id name="appointment_id" column="appointment_id">
+			<generator class="increment" />
+		</id>
+		<property name="appointment_date" column="appointment_date" />
+		<property name="created_date" column="created_date" />
+		<property name="p_id" column="p_id" />
+		<!-- many-to-one name="User" class="com.uncc.health.binge.hibernate.User" 
+			column="p_id" unique="true" not-null="true" cascade="none" lazy="false" fetch="select" 
+			/ -->
+	</class>
+	
+	<!-- Message table mapping -->
+	<class name="StepWiseMessage" table="message">
+		<id name="m_id" column="message_id">
+			<generator class="increment" />
+		</id>
+		<property name="message_text" column="message" />
+		<property name="step_id" column="step" />
+		
+		<!-- many-to-one name="User" class="com.uncc.health.binge.hibernate.User" 
+			column="p_id" unique="true" not-null="true" cascade="none" lazy="false" fetch="select" 
+			/ -->
+	</class>
+
+	
+</hibernate-mapping>

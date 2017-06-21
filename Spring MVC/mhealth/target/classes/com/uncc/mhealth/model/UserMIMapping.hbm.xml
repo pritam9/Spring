@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+    <class name="UserMIMapping" table="user_mi_mapping">
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+        <property name="mi_id" column="mi_id" />
+        <property name="user_id" column="user_id" />
+        <property name="open" column="opened" />
+        <property name="sent" column="sent" />
+        <property name="answer" column="answer" />
+        <property name="updated_text" column="updated_text" />
+        <property name="sent_time" column="sent_time" />
+        <property name="open_time" column="open_time" />
+        <property name="respond_time" column="respond_time" />
+    </class>
+</hibernate-mapping>

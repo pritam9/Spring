@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+	<class name="UserToken" table="user_token">
+		<composite-id>
+			<key-property name="user_id" column="user_id" />
+			<key-property name="token" column="token"/>
+		</composite-id>
+		<property name="session_token" column="session_token"/>
+		<property name="isWithNewCert" column="isWithNewCert"/>
+		
+	</class>
+</hibernate-mapping>

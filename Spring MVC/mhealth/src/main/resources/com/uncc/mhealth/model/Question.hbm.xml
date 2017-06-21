@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+    <class name="Question" table="questions">
+        <id name="id" column="question_id">
+            <generator class="native"/>
+        </id>
+        <property name="id" column="question_id" insert="false" update="false"/>
+        <property name="index" column="index" />
+        <property name="text" column="TEXT" />
+        <property name="type" column="TYPE" />
+        <property name="answer" column="ANSWER" />
+        <property name="survey" column="survey" />
+        <property name="pageNo" column="pageNo" />
+        <property name="ignore" column="ignore" />
+        <property name="orderNo" column="orderNo" />
+        <property name="active_yn" column="active_yn" />
+         <property name="sixWeekFlag" column="sixWeekFlag" />
+        <set name="options" table="options"
+            inverse="true" lazy="false" fetch="select" order-by="orderNo" where=" active_yn='Y' ">
+            <key>
+                <column name="question_id" not-null="true" />
+            </key>
+            <one-to-many class="com.uncc.mhealth.model.Option" />
+        </set>
+        <set name="subquestions" table="subquestions"
+            inverse="true" lazy="false" fetch="select" order-by="orderNo" where=" active_yn='Y' ">
+            <key>
+                <column name="question_id" not-null="true" />
+            </key>
+            <one-to-many class="com.uncc.mhealth.model.SubQuestion" />
+        </set>
+    </class>
+</hibernate-mapping>

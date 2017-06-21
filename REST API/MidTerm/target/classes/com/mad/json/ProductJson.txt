@@ -1,0 +1,2988 @@
+[{
+  "name": "Banded Long Sleeve Shirt",
+  "product": "https://api.gilt.com/v1/products/1154752687/detail.json",
+  "id": 1154752687,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit shirt   Crewneck   Banded cuffs   Curved hem   Tonal top stitching and panel seaming   Partial button front closure    Size and Fit   Garment Measurements from a size M: Model is wearing a size M  Model measurements: Height: 6'1\", Waist: 30.5\", Chest: 38\", Inseam: 32\", Shoulders: 45.2\"",
+    "material": "50% polyester and 50% viscose",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-undershirts-4488/product/1154752687-unsimply-stitched-banded-long-sleeve-shirt?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465702/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465700/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465701/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465702/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465700/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465701/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465702/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465700/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465701/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465702/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465700/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465701/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6290015,
+      "inventory_status": "for sale",
+      "units_for_sale": 5,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6290017,
+      "inventory_status": "for sale",
+      "units_for_sale": 53,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6290018,
+      "inventory_status": "for sale",
+      "units_for_sale": 58,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6290020,
+      "inventory_status": "for sale",
+      "units_for_sale": 43,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Solid Side Pocket Jogger Pants",
+  "product": "https://api.gilt.com/v1/products/1167731192/detail.json",
+  "id": 1167731192,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit cotton-blend jogger pants   Elasticized waistband with adjustable drawstring   Side slip pockets   Back patch pocket   Ribbed cuffs   Flatlock seam stitch   Tonal top stitching and panel seaming    Size and Fit   Small: Waist 28\" - 30\"  Medium: 31\" - 33\"  Large: 33\" - 35\"  X-Large: 36\" - 38\" ",
+    "material": "70% cotton and 30% modal French terry",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1167731192-unsimply-stitched-solid-side-pocket-jogger-pants?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380907/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380903/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380907/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380903/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380907/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380903/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380907/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380903/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6670379,
+      "inventory_status": "for sale",
+      "units_for_sale": 27,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "dirty wash grey"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6670392,
+      "inventory_status": "for sale",
+      "units_for_sale": 83,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "dirty wash grey"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6670402,
+      "inventory_status": "for sale",
+      "units_for_sale": 92,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "dirty wash grey"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6670414,
+      "inventory_status": "for sale",
+      "units_for_sale": 49,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "dirty wash grey"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Crewneck T-Shirt",
+  "product": "https://api.gilt.com/v1/products/1154752673/detail.json",
+  "id": 1154752673,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit shirt   Crewneck   Curved hem   Tonal top stitching and panel seaming",
+    "material": "50% polyester and 50% viscose",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1154752673-unsimply-stitched-crewneck-t-shirt?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465696/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465695/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465692/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465696/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465695/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465692/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465696/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465695/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465692/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465696/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465695/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465692/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6289988,
+      "inventory_status": "for sale",
+      "units_for_sale": 26,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6289990,
+      "inventory_status": "for sale",
+      "units_for_sale": 53,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6289991,
+      "inventory_status": "for sale",
+      "units_for_sale": 57,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6289995,
+      "inventory_status": "for sale",
+      "units_for_sale": 25,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Candy Stripe, Ball Drip and Diagonal Polka Dot Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1158010570/detail.json",
+  "id": 1158010570,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend socks   Intarsia throughout   Mid-calf   Ribbed cuffs   Logo print at toe   Double reinforced heel and toe   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% nylon and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1158010570-unsimply-stitched-candy-stripe-ball-drip-and-diagonal-polka-dot-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201791/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201791/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201791/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201791/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6386840,
+      "inventory_status": "for sale",
+      "units_for_sale": 44,
+      "msrp_price": "36.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Assorted Multicolored Printed Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1185561504/detail.json",
+  "id": 1185561504,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend socks   Print throughout   Mid-calf   Intarsia logo at front   Ribbed cuffs   One size fits most   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% nylon and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1185561504-unsimply-stitched-assorted-multicolored-printed-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380855/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380855/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380855/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380855/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 7218152,
+      "inventory_status": "for sale",
+      "units_for_sale": 48,
+      "msrp_price": "36.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Assorted Intarsia Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1170069875/detail.json",
+  "id": 1170069875,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend socks   Intarsia throughout   Mid-calf   Ribbed cuffs   Intarsia logo at front   One size fits most   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% nylon and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1170069875-unsimply-stitched-assorted-intarsia-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700726/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700726/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700726/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700726/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6762561,
+      "inventory_status": "for sale",
+      "units_for_sale": 42,
+      "msrp_price": "36.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Diagonal Polka Dot Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1158010567/detail.json",
+  "id": 1158010567,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend socks   Intarsia throughout   Mid-calf   Ribbed cuffs   Logo print at toe   Double reinforced heel and toe   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% nylon and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1158010567-unsimply-stitched-diagonal-polka-dot-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201792/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201792/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201792/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0720/507201792/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6386839,
+      "inventory_status": "for sale",
+      "units_for_sale": 38,
+      "msrp_price": "36.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Crewneck Henley",
+  "product": "https://api.gilt.com/v1/products/1154752694/detail.json",
+  "id": 1154752694,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit shirt   Crewneck   Banded cuffs   Curved hem   Tonal top stitching and panel seaming   Partial button front closure    Size and Fit   Garment Measurements from a size M:Model is wearing a size M  Model measurements: Height: 6'1\", Waist: 30.5\", Chest: 38\", Inseam: 32\", Shoulders: 45.2\"",
+    "material": "50% polyester and 50% viscose",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-undershirts-4488/product/1154752694-unsimply-stitched-crewneck-henley?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465707/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465704/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465703/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465707/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465704/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465703/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465707/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465704/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465703/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465707/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465704/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465703/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6290023,
+      "inventory_status": "for sale",
+      "units_for_sale": 5,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6290024,
+      "inventory_status": "for sale",
+      "units_for_sale": 43,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6290026,
+      "inventory_status": "for sale",
+      "units_for_sale": 40,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6290029,
+      "inventory_status": "for sale",
+      "units_for_sale": 42,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Assorted Multicolored Dots Print Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1185561482/detail.json",
+  "id": 1185561482,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend socks   Print throughout   Mid-calf   Intarsia logo at front   Ribbed cuffs   One size fits most   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% nylon and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1185561482-unsimply-stitched-assorted-multicolored-dots-print-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380892/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380892/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380892/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380892/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 7218147,
+      "inventory_status": "for sale",
+      "units_for_sale": 42,
+      "msrp_price": "36.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Argyle & Printed Socks (3 Pack)",
+  "product": "https://api.gilt.com/v1/products/1101571537/detail.json",
+  "id": 1101571537,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit cotton blend socks   Mid-calf height   Solid ribbed cuff, heel and toe   Fits U.S. sizes 7-13   Comes in a pack of three of displayed colors",
+    "material": "80% cotton, 17% polyester, 3% spandex",
+    "care_instructions": "Machine wash, tumble dry low",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1101571537-unsimply-stitched-argyle-printed-socks-3-pack?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0242/502423017/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0242/502423017/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0242/502423017/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0242/502423017/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 4142367,
+      "inventory_status": "for sale",
+      "units_for_sale": 38,
+      "msrp_price": "36.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Assorted No-Show Ped Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1164126588/detail.json",
+  "id": 1164126588,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit ped socks   Intarsia throughout   Intarsia logo at front   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% polyester, and 3% Spandex",
+    "care_instructions": "Machine Wash Cold Wash Inside Out Do Not Bleach Tumble Dry Low",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1164126588-unsimply-stitched-assorted-no-show-ped-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0809/508097679/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0809/508097679/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0809/508097679/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0809/508097679/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6567208,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "30.00",
+      "sale_price": "15.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "8 - 12"
+        }
+      ]
+    },
+    {
+      "id": 6762609,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "30.00",
+      "sale_price": "15.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "8/12"
+        }
+      ]
+    },
+    {
+      "id": 7218164,
+      "inventory_status": "for sale",
+      "units_for_sale": 31,
+      "msrp_price": "30.00",
+      "sale_price": "15.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "8  / 12"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Assorted Multicolored Fish Print Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1185561518/detail.json",
+  "id": 1185561518,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend socks   Print throughout   Mid-calf   Intarsia logo at front   Ribbed cuffs   One size fits most   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% nylon and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1185561518-unsimply-stitched-assorted-multicolored-fish-print-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380893/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380893/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380893/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380893/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 7218157,
+      "inventory_status": "for sale",
+      "units_for_sale": 39,
+      "msrp_price": "36.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Slip Pocket Lounge Pants",
+  "product": "https://api.gilt.com/v1/products/1154752713/detail.json",
+  "id": 1154752713,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit lounge pants   Elasticized waistband with adjustable drawstring   Side slip pockets   Tonal top stitching and panel seaming  ",
+    "material": "50% polyester and 50% viscose",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-undershirts-4488/product/1154752713-unsimply-stitched-slip-pocket-lounge-pants?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465714/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465713/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465715/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465714/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465713/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465715/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465714/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465713/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465715/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465714/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465713/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465715/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6290051,
+      "inventory_status": "for sale",
+      "units_for_sale": 4,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6290052,
+      "inventory_status": "for sale",
+      "units_for_sale": 15,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6290053,
+      "inventory_status": "for sale",
+      "units_for_sale": 14,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6290054,
+      "inventory_status": "for sale",
+      "units_for_sale": 9,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange blue"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Solid Zip-Up Hoodie",
+  "product": "https://api.gilt.com/v1/products/1167728295/detail.json",
+  "id": 1167728295,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit cotton-blend hoodie   Attached hood with adjustable drawstring   Front split kangaroo pockets   Ribbed cuffs and hem   Tonal top stitching and panel seaming   Zip closure    Size and Fit   Shoulder to hem: 28.75\" ",
+    "material": "70% cotton and 30% modal French terry",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-undershirts-4488/product/1167728295-unsimply-stitched-solid-zip-up-hoodie?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614647/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614651/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614647/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614651/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614647/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614651/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614647/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614651/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6670095,
+      "inventory_status": "for sale",
+      "units_for_sale": 2,
+      "msrp_price": "89.99",
+      "sale_price": "45.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6670100,
+      "inventory_status": "for sale",
+      "units_for_sale": 10,
+      "msrp_price": "89.99",
+      "sale_price": "45.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6670104,
+      "inventory_status": "for sale",
+      "units_for_sale": 6,
+      "msrp_price": "89.99",
+      "sale_price": "45.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6670113,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "89.99",
+      "sale_price": "45.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Knit Lounge Pants",
+  "product": "https://api.gilt.com/v1/products/1154752710/detail.json",
+  "id": 1154752710,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit lounge pants   Elasticized waistband with adjustable drawstring   Side slip pockets   Tonal top stitching and panel seaming  ",
+    "material": "50% polyester and 50% viscose",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1154752710-unsimply-stitched-knit-lounge-pants?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465710/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465711/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465712/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465710/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465711/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465712/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465710/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465711/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465712/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465710/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465711/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465712/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6290043,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6290045,
+      "inventory_status": "for sale",
+      "units_for_sale": 3,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6290047,
+      "inventory_status": "for sale",
+      "units_for_sale": 3,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6290048,
+      "inventory_status": "for sale",
+      "units_for_sale": 3,
+      "msrp_price": "59.00",
+      "sale_price": "32.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "melange grey"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Assorted Multicolored No Shows Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1185561541/detail.json",
+  "id": 1185561541,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend socks   Print throughout   Intarsia logo at front   No show liner with no slip heel   One size fits most   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% poly and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1185561541-unsimply-stitched-assorted-multicolored-no-shows-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380906/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380906/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380906/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380906/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 7218179,
+      "inventory_status": "for sale",
+      "units_for_sale": 27,
+      "msrp_price": "30.00",
+      "sale_price": "15.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Relaxed Crewneck Sweatshirt",
+  "product": "https://api.gilt.com/v1/products/1167728714/detail.json",
+  "id": 1167728714,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit cotton-blend sweatshirt   Crewneck   Ribbed cuffs and hem   Flatlock seam stitch   Tonal top stitching and panel seaming    Size and Fit   Shoulder to hem: 28.75\" ",
+    "material": "70% cotton and 30% modal French terry",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1167728714-unsimply-stitched-relaxed-crewneck-sweatshirt?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614641/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614640/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614641/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614640/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614641/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614640/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614641/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614640/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6670143,
+      "inventory_status": "for sale",
+      "units_for_sale": 2,
+      "msrp_price": "79.99",
+      "sale_price": "39.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6670144,
+      "inventory_status": "for sale",
+      "units_for_sale": 4,
+      "msrp_price": "79.99",
+      "sale_price": "39.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6670145,
+      "inventory_status": "for sale",
+      "units_for_sale": 2,
+      "msrp_price": "79.99",
+      "sale_price": "39.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6670146,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "79.99",
+      "sale_price": "39.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "grey"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Assorted Camouflage No Show Socks (3 PK)",
+  "product": "https://api.gilt.com/v1/products/1170069953/detail.json",
+  "id": 1170069953,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit combed cotton-blend ped socks   Intarsia throughout   Ribbed cuffs   Intarsia logo at front   One size fits most   No show liner with no slip heel   Tonal top stitching and panel seaming   Comes in a pack of three of displayed colors  ",
+    "material": "80% combed cotton, 17% poly and 3% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-socks-5803/product/1170069953-unsimply-stitched-assorted-camouflage-no-show-socks-3-pk?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700771/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700771/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700771/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0870/508700771/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6945172,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "30.00",
+      "sale_price": "15.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Socks",
+    "Footwear",
+    "Socks, Underwear & Sleepwear",
+    "Socks",
+    "Clothing",
+    "Socks"
+  ]
+},
+{
+  "name": "Crewneck T-Shirt",
+  "product": "https://api.gilt.com/v1/products/1167838228/detail.json",
+  "id": 1167838228,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit t-shirt   Crewneck   Curved hem   Tonal top stitching and panel seaming",
+    "material": "50% polyester and 50% viscose mock twist",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1167838228-unsimply-stitched-crewneck-t-shirt?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614648/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614650/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614648/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614650/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614648/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614650/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614648/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614650/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6672559,
+      "inventory_status": "for sale",
+      "units_for_sale": 28,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6672560,
+      "inventory_status": "for sale",
+      "units_for_sale": 50,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6672561,
+      "inventory_status": "for sale",
+      "units_for_sale": 70,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6672562,
+      "inventory_status": "for sale",
+      "units_for_sale": 28,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Dog Print Boxer Brief",
+  "product": "https://api.gilt.com/v1/products/1185561465/detail.json",
+  "id": 1185561465,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit cotton-blend boxer brief   Print throughout   Elastic logo waist   Functional support pouch   Flatlock seam stitched   Tonal top stitching and panel seaming    Size and Fit   Small: 28\" - 30\"   Medium: 32\" - 34\"   Large: 36\" - 38\"   X-Large: 40\" - 42\"   XX-Large: 44\" - 46\"  ",
+    "material": "95% cotton and 5% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "Thailand"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-underwear-7786/product/1185561465-unsimply-stitched-dog-print-boxer-brief?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380888/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380888/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380888/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380888/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 7218136,
+      "inventory_status": "for sale",
+      "units_for_sale": 1,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 7218137,
+      "inventory_status": "for sale",
+      "units_for_sale": 30,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 7218138,
+      "inventory_status": "for sale",
+      "units_for_sale": 9,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 7218139,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    },
+    {
+      "id": 7218140,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "xxl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Underwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Underwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Solid Crewneck Henley",
+  "product": "https://api.gilt.com/v1/products/1167725693/detail.json",
+  "id": 1167725693,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit shirt   Crewneck   Banded cuffs   Curved hem   Tonal top stitching and panel seaming   Partial button front closure    Size and Fit   Garment Measurements from a size M:Model is wearing a size M  Model measurements: Height: 6'1\", Waist: 30.5\", Chest: 38\", Inseam: 32\", Shoulders: 45.2\"",
+    "material": "50% polyester and 50% viscose mock twist",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-undershirts-4488/product/1167725693-unsimply-stitched-solid-crewneck-henley?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614652/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614653/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614652/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614653/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614652/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614653/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614652/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0861/508614653/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6670085,
+      "inventory_status": "for sale",
+      "units_for_sale": 24,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6670087,
+      "inventory_status": "for sale",
+      "units_for_sale": 45,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6670088,
+      "inventory_status": "for sale",
+      "units_for_sale": 57,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6670089,
+      "inventory_status": "for sale",
+      "units_for_sale": 43,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Patterned Boxer Brief",
+  "product": "https://api.gilt.com/v1/products/1185561438/detail.json",
+  "id": 1185561438,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit cotton-blend boxer brief   Print throughout   Elastic logo waist   Functional support pouch   Flatlock seam stitched   Tonal top stitching and panel seaming    Size and Fit   Small: 28\" - 30\"   Medium: 32\" - 34\"   Large: 36\" - 38\"   X-Large: 40\" - 42\"   XX-Large: 44\" - 46\"  ",
+    "material": "95% cotton and 5% spandex",
+    "care_instructions": "Machine wash",
+    "origin": "Thailand"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-underwear-7786/product/1185561438-unsimply-stitched-patterned-boxer-brief?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380862/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380862/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380862/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380862/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 7218021,
+      "inventory_status": "for sale",
+      "units_for_sale": 4,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 7218022,
+      "inventory_status": "for sale",
+      "units_for_sale": 47,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 7218023,
+      "inventory_status": "for sale",
+      "units_for_sale": 21,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 7218024,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    },
+    {
+      "id": 7218025,
+      "inventory_status": "sold out",
+      "units_for_sale": 0,
+      "msrp_price": "24.00",
+      "sale_price": "12.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "multi"
+        },
+        {
+          "name": "size",
+          "value": "xxl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Underwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Underwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Crewneck T-Shirt",
+  "product": "https://api.gilt.com/v1/products/1154752679/detail.json",
+  "id": 1154752679,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit shirt   Crewneck   Curved hem   Tonal top stitching and panel seaming",
+    "material": "50% polyester and 50% viscose",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/unsimply-stitched-lounge-socks/product/1154752679-unsimply-stitched-crewneck-t-shirt?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465697/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465699/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465698/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465697/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465699/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465698/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465697/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465699/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465698/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465697/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465699/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465698/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6290001,
+      "inventory_status": "for sale",
+      "units_for_sale": 8,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6290006,
+      "inventory_status": "for sale",
+      "units_for_sale": 41,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6290007,
+      "inventory_status": "for sale",
+      "units_for_sale": 51,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6290009,
+      "inventory_status": "for sale",
+      "units_for_sale": 4,
+      "msrp_price": "29.00",
+      "sale_price": "19.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Side Pocket Jogger Pants",
+  "product": "https://api.gilt.com/v1/products/1154752574/detail.json",
+  "id": 1154752574,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "Knit cotton-blend jogger pants   Elasticized waistband with adjustable drawstring   Side slip pockets   Back patch pocket   Ribbed cuffs   Tonal top stitching and panel seaming    Size and Fit   Garment measurements from a size M: Rise: 12\", Inseam: 30\", Leg opening: 8\"  Model is wearing a size M  Model measurements: Height: 6'1\", Waist: 30.5\", Chest: 38\", Inseam: 32\", Shoulders: 45.2\"",
+    "material": "70% cotton and 30% modal",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-undershirts-4488/product/1154752574-unsimply-stitched-side-pocket-jogger-pants?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465664/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465665/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465666/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465664/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465665/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465666/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465664/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465665/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465666/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465664/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465665/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/0846/508465666/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6289875,
+      "inventory_status": "for sale",
+      "units_for_sale": 11,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6289877,
+      "inventory_status": "for sale",
+      "units_for_sale": 32,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6289878,
+      "inventory_status": "for sale",
+      "units_for_sale": 72,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6289880,
+      "inventory_status": "for sale",
+      "units_for_sale": 34,
+      "msrp_price": "85.00",
+      "sale_price": "35.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+},
+{
+  "name": "Long Sleeve Shirt",
+  "product": "https://api.gilt.com/v1/products/1154752699/detail.json",
+  "id": 1154752699,
+  "brand": "Unsimply Stitched",
+  "content": {
+    "description": "   Size and Fit   Garment Measurements from a size M: Model is wearing a size M",
+    "material": "50% polyester and 50% viscose",
+    "care_instructions": "Machine wash",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/sale/men/the-basics-shop-undershirts-4488/product/1154752699-unsimply-stitched-long-sleeve-shirt?utm_medium=api&utm_source=salesapi",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380904/91x121.jpg",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380905/91x121.jpg",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380904/300x400.jpg",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380905/300x400.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380904/420x560.jpg",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380905/420x560.jpg",
+        "width": 420,
+        "height": 560
+      }
+    ],
+    "1080x1440": [
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380904/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "url": "https://cdn1.gilt.com/images/share/uploads/0000/0005/1038/510380905/1080x1440.jpg",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 6290031,
+      "inventory_status": "for sale",
+      "units_for_sale": 1,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "s"
+        }
+      ]
+    },
+    {
+      "id": 6290032,
+      "inventory_status": "for sale",
+      "units_for_sale": 39,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "id": 6290033,
+      "inventory_status": "for sale",
+      "units_for_sale": 49,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "id": 6290034,
+      "inventory_status": "for sale",
+      "units_for_sale": 28,
+      "msrp_price": "39.00",
+      "sale_price": "24.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "size",
+          "value": "xl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sleepwear",
+    "Men",
+    "Socks, Underwear & Sleepwear",
+    "Clothing",
+    "Sleepwear",
+    "Socks, Underwear & Sleepwear",
+    "Clothing"
+  ]
+}
+]
+

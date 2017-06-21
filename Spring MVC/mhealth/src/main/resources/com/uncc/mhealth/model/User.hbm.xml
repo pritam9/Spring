@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+    <class name="User" table="users">
+        <id name="id" column="user_id">
+            <generator class="native"/>
+        </id>
+        <property name="id" column="user_id" insert="false" update="false"/>
+        <property name="username" column="username" />
+        <property name="password" column="password" />
+        <property name="email" column="email" />
+        <property name="firstName" column="first_name" />
+        <property name="lastName" column="last_name" />
+        <property name="dob" column="dob" />
+        <property name="token" column="token" />
+        <property name="nickname" column="nickname" />
+        <property name="admin" column="admin" />
+        <property name="pf" column="pf" />
+        <property name="goal" column="goal" />
+        <property name="strategy" column="strategy" />
+        <property name="registrationDate" column="registration_date" />
+        <property name="randomized_id" column="randomized_id" />
+        <property name="detailsUpdated" column="detailsUpdated" />
+        <property name="istoApp" column="istoApp" />
+         <property name="sixWeekFlag" column="sixWeekFlag" />
+    </class> 
+</hibernate-mapping>

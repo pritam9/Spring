@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+    <class name="TriviaScore" table="trivia_score">
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+        <property name="user_id" column="user_id"/>
+        <property name="score" column="score" />
+        <property name="time" column="time" />
+    </class>
+</hibernate-mapping>

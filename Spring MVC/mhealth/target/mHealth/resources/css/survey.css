@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+form{
+	padding-left : 10px;
+	padding-right : 10px
+}
+.SubQuestion {
+	padding-left : 20px;
+	padding-right : 20px
+}
+.RoundedCorner {
+    border-radius: 6px;
+    border: 1px solid #000000;
+    padding: 10px; 
+    margin-bottom: 40px;
+}
+table {
+    border-spacing: 5px;
+}
+th, td {
+    padding: 5px;
+}
+
+.TableBorder {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.Center{
+	text-align: center;
+}
+.error-msg {
+    color: red;
+}
+.hide{
+    display: none;
+    /*visibility: hidden;*/
+}
+.survey_link{
+	width: 250px;
+}
+.survey_error {
+    color: red;
+}
+.feedback_header {
+	background: #535353; 
+	color: white;
+	padding: 5px;
+}
+.dynamic_field{
+	color: red;
+}
+.survey_heading{
+	text-align: center;
+}
+

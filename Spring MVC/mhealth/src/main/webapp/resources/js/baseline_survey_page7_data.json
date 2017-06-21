@@ -1,0 +1,149 @@
+{
+  "status":0,
+  "message":null,
+  "data":[
+    {
+      "id":62,
+      "index":500,
+      "text":"Centre for Alcohol & Drug Studies Newcastle City Health NHS Trust",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"rcq",
+      "strId":null
+    },
+    {
+      "id":63,
+      "index":501,
+      "text":"Complete this survey if you are a drinker only:",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"rcq",
+      "strId":null
+    },
+    {
+      "id":64,
+      "index":502,
+      "text":"READINESS TO CHANGE QUESTIONNAIRE",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"rcq",
+      "strId":null
+    },
+    {
+      "id":65,
+      "index":503,
+      "text":"The following questionnaire is designed to identify how you personally feel about your drinking right now. Please read each of the questions below carefully, and then decide whether you agree or disagree with the statements. Please check the answer of your choice to each question. Your answers are completely private and confidential.",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":98,
+          "text":"Unsure",
+          "value":2
+        },
+        {
+          "id":96,
+          "text":"Strongly Disagree",
+          "value":0
+        },
+        {
+          "id":100,
+          "text":"Strongly Agree",
+          "value":4
+        },
+        {
+          "id":99,
+          "text":"Agree",
+          "value":3
+        },
+        {
+          "id":97,
+          "text":"Disagree",
+          "value":1
+        }
+      ],
+      "subquestions":[
+        {
+          "id":104,
+          "text":"It’s a waste of time thinking about my drinking.",
+          "answer":null
+        },
+        {
+          "id":109,
+          "text":"There is no need for me to think about changing my drinking.",
+          "answer":null
+        },
+        {
+          "id":111,
+          "text":"Drinking less alcohol would be pointless for me.",
+          "answer":null
+        },
+        {
+          "id":106,
+          "text":"Anyone can talk about wanting to do something about drinking, but I am actually doing something about it.",
+          "answer":null
+        },
+        {
+          "id":101,
+          "text":"I am trying to drink less than I used to.",
+          "answer":null
+        },
+        {
+          "id":103,
+          "text":"Sometimes I think I should cut down on my drinking.",
+          "answer":null
+        },
+        {
+          "id":107,
+          "text":"I am at the stage where I should think about drinking less alcohol.",
+          "answer":null
+        },
+        {
+          "id":102,
+          "text":"I enjoy my drinking, but sometimes I drink too much.",
+          "answer":null
+        },
+        {
+          "id":105,
+          "text":"I have just recently changed my drinking habits.",
+          "answer":null
+        },
+        {
+          "id":110,
+          "text":"I am actually changing my drinking habits right now",
+          "answer":null
+        },
+        {
+          "id":108,
+          "text":"My drinking is a problem sometimes.",
+          "answer":null
+        },
+        {
+          "id":100,
+          "text":"I don’t think I drink too much.",
+          "answer":null
+        }
+      ],
+      "survey":"rcq",
+      "strId":null
+    }
+  ]
+}

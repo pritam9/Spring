@@ -1,0 +1,294 @@
+{
+  "status":0,
+  "message":null,
+  "data":[
+    {
+      "id":102,
+      "index":60,
+      "text":"Alcohol-Related Consequences",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":103,
+      "index":61,
+      "text":"You indicated that the following happened to you within the past year. Next to each item below, please indicate approximately how many times each of the following happened to you in the past year, either while you were drinking or as a result of your drinking.",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":267,
+          "text":"5-9 times",
+          "value":2
+        },
+        {
+          "id":266,
+          "text":"3-4 times",
+          "value":1
+        },
+        {
+          "id":268,
+          "text":"10 or more times",
+          "value":3
+        },
+        {
+          "id":265,
+          "text":"1-2 times",
+          "value":0
+        }
+      ],
+      "subquestions":[
+        {  
+               "id":225,
+               "text":"I have been overweight because of drinking.",
+               "answer":null
+            },
+            {  
+               "id":289,
+               "text":"My boyfriend/girlfriend/spouse/parents have complained to me about my drinking.",
+               "answer":null
+            },
+            {  
+               "id":226,
+               "text":"My physical appearance has been harmed by my drinking.",
+               "answer":null
+            },
+            {  
+               "id":290,
+               "text":"I have been less physically active because of drinking.",
+               "answer":null
+            },
+            {  
+               "id":227,
+               "text":"I have felt like I needed a drink after I’d gotten up (that is, before breakfast).",
+               "answer":null
+            },
+            {  
+               "id":291,
+               "text":"Because of my drinking, I have not eaten properly.",
+               "answer":null
+            },
+            {  
+               "id":292,
+               "text":"I have gotten into trouble at work or school because of drinking.",
+               "answer":null
+            },
+            {  
+               "id":293,
+               "text":"I haven’t been as sharp mentally because of my drinking.",
+               "answer":null
+            },
+            {  
+               "id":294,
+               "text":"As a result of drinking, I neglected to protect myself or my partner from a sexually transmitted disease, or unwanted pregnancy.",
+               "answer":null
+            },
+            {  
+               "id":295,
+               "text":"Drinking has made me feel depressed or sad.",
+               "answer":null
+            },
+            {  
+               "id":204,
+               "text":"While drinking, I have said or done embarrassing things.",
+               "answer":null
+            },
+            {  
+               "id":205,
+               "text":"I have had a hangover (headache, sick stomach) the morning after I had been drinking.",
+               "answer":null
+            },
+            {  
+               "id":206,
+               "text":"I have felt very sick to my stomach or thrown up after drinking.",
+               "answer":null
+            },
+            {  
+               "id":207,
+               "text":"I often have ended up drinking on nights when I had planned not to drink.",
+               "answer":null
+            },
+            {  
+               "id":208,
+               "text":"I have taken foolish risks when I have been drinking.",
+               "answer":null
+            },
+            {  
+               "id":272,
+               "text":"I have damaged property, or done something disruptive such as setting off a false fire alarm, or other things like that after drinking.",
+               "answer":null
+            },
+            {  
+               "id":209,
+               "text":"I have passed out from drinking.",
+               "answer":null
+            },
+            {  
+               "id":273,
+               "text":"I have gotten into physical fights because of drinking.",
+               "answer":null
+            },
+            {  
+               "id":210,
+               "text":"I have found that I needed larger amounts of alcohol to feel any effect, or that I could no longer get high or drunk on the amount that used to get me high or drunk.",
+               "answer":null
+            },
+            {  
+               "id":274,
+               "text":"I have injured someone else while drinking or intoxicated.",
+               "answer":null
+            },
+            {  
+               "id":211,
+               "text":"When drinking, I have done impulsive things that I regretted later.",
+               "answer":null
+            },
+            {  
+               "id":275,
+               "text":"I have felt anxious, agitated, or restless after stopping or cutting down on drinking.",
+               "answer":null
+            },
+            {  
+               "id":212,
+               "text":"I’ve not been able to remember large stretches of time while drinking heavily.",
+               "answer":null
+            },
+            {  
+               "id":276,
+               "text":"I have had “the shakes” after stopping or cutting down on drinking.",
+               "answer":null
+            },
+            {  
+               "id":213,
+               "text":"I have driven a car when I knew I had too much to drink to drive safely.",
+               "answer":null
+            },
+            {  
+               "id":277,
+               "text":"I have received a lower grade on an exam or paper than I ordinarily could have because of my drinking.",
+               "answer":null
+            },
+            {  
+               "id":214,
+               "text":"I have not gone to work or missed classes at school because of drinking, a hangover, or illness caused by drinking.",
+               "answer":null
+            },
+            {  
+               "id":278,
+               "text":"I have felt guilty about my drinking.",
+               "answer":null
+            },
+            {  
+               "id":215,
+               "text":"My drinking has gotten me into sexual situations I later regretted.",
+               "answer":null
+            },
+            {  
+               "id":279,
+               "text":"I have had a blackout after drinking heavily (i.e., could not remember hours at a time)",
+               "answer":null
+            },
+            {  
+               "id":216,
+               "text":"I have often found it difficult to limit how much I drink.",
+               "answer":null
+            },
+            {  
+               "id":280,
+               "text":"While drinking, I have said harsh or cruel things to someone.",
+               "answer":null
+            },
+            {  
+               "id":217,
+               "text":"I have become very rude, obnoxious or insulting after drinking.",
+               "answer":null
+            },
+            {  
+               "id":281,
+               "text":"I have been unhappy because of my drinking.",
+               "answer":null
+            },
+            {  
+               "id":218,
+               "text":"I have woken up in an unexpected place after heavy drinking.",
+               "answer":null
+            },
+            {  
+               "id":282,
+               "text":"I have tried to quit drinking because I thought I was drinking too much.",
+               "answer":null
+            },
+            {  
+               "id":219,
+               "text":"I have felt badly about myself because of my drinking.",
+               "answer":null
+            },
+            {  
+               "id":283,
+               "text":"I have awakened the day after drinking and found that I could not remember a part of the evening before.",
+               "answer":null
+            },
+            {  
+               "id":220,
+               "text":"I have had less energy or felt tired because of my drinking.",
+               "answer":null
+            },
+            {  
+               "id":284,
+               "text":"I have not had as much time to pursue activities or recreation because of drinking.",
+               "answer":null
+            },
+            {  
+               "id":221,
+               "text":"The quality of my work or schoolwork has suffered because of my drinking.'",
+               "answer":null
+            },
+            {  
+               "id":285,
+               "text":"I have said things while drinking that I later regretted.",
+               "answer":null
+            },
+            {  
+               "id":222,
+               "text":"I have spent too much time drinking.",
+               "answer":null
+            },
+            {  
+               "id":286,
+               "text":"I often have thought about needing to cut down or stop drinking.",
+               "answer":null
+            },
+            {  
+               "id":223,
+               "text":"I have neglected my obligations to family, work, or school because of drinking.",
+               "answer":null
+            },
+            {  
+               "id":287,
+               "text":"I often drank more than I originally had planned.",
+               "answer":null
+            },
+            {  
+               "id":224,
+               "text":"My drinking has created problems between myself and my boyfriend/girlfriend/spouse, parents , or other near relatives.",
+               "answer":null
+            },
+            {  
+               "id":288,
+               "text":"Because of my drinking, I have not slept properly.",
+               "answer":null
+            }
+      ],
+      "survey":"baseline",
+      "strId":null
+    }
+  ]
+}

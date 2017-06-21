@@ -1,0 +1,139 @@
+{
+  "status":0,
+  "message":null,
+  "data":[
+    {
+      "id":60,
+      "index":400,
+      "text":"The Protective Behaviors Strategies Scale",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"pss",
+      "strId":null
+    },
+    {
+      "id":61,
+      "index":401,
+      "text":"Instructions: Please indicate the degree to which you engage in the following behaviors when using alcohol or “partying.” ",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":91,
+          "text":"Rarely",
+          "value":1
+        },
+        {
+          "id":94,
+          "text":"Usually",
+          "value":4
+        },
+        {
+          "id":93,
+          "text":"Sometimes",
+          "value":3
+        },
+        {
+          "id":95,
+          "text":"Always",
+          "value":5
+        },
+        {
+          "id":92,
+          "text":"Occasionally",
+          "value":2
+        },
+        {
+          "id":90,
+          "text":"Never",
+          "value":0
+        }
+      ],
+      "subquestions":[
+        {
+          "id":98,
+          "text":"Drink slowly, rather than gulp or chug",
+          "answer":null
+        },
+        {
+          "id":85,
+          "text":"Use a designated driver",
+          "answer":null
+        },
+        {
+          "id":88,
+          "text":"Have a friend let you know when you have had enough to drink",
+          "answer":null
+        },
+        {
+          "id":95,
+          "text":"Drink water while drinking alcohol",
+          "answer":null
+        },
+        {
+          "id":91,
+          "text":"Make sure that you go home with a friend",
+          "answer":null
+        },
+        {
+          "id":96,
+          "text":"Put extra ice in your drink",
+          "answer":null
+        },
+        {
+          "id":90,
+          "text":"Leave the bar/party at a predetermined time",
+          "answer":null
+        },
+        {
+          "id":97,
+          "text":"Avoid mixing different types of alcohol",
+          "answer":null
+        },
+        {
+          "id":86,
+          "text":"Determine not to exceed a set number of drinks",
+          "answer":null
+        },
+        {
+          "id":94,
+          "text":"Stop drinking at a predetermined time",
+          "answer":null
+        },
+        {
+          "id":87,
+          "text":"Alternate alcoholic and non-alcoholic drinks",
+          "answer":null
+        },
+        {
+          "id":89,
+          "text":"Avoid drinking games",
+          "answer":null
+        },
+        {
+          "id":93,
+          "text":"Drink shots of liquor",
+          "answer":null
+        },
+        {
+          "id":92,
+          "text":"Know where your drink has been at all times",
+          "answer":null
+        },
+        {
+          "id":99,
+          "text":"Avoid trying to “keep up” or “out-drink” others",
+          "answer":null
+        }
+      ],
+      "survey":"pss",
+      "strId":null
+    }
+  ]
+}

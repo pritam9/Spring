@@ -1,0 +1,347 @@
+{
+  "status":0,
+  "message":null,
+  "data":[
+    {
+      "id":41,
+      "index":200,
+      "text":"Brief Comprehensive Effects of Alcohol (CEA)",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":42,
+      "index":201,
+      "text":"This questionnaire assess two things:",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":43,
+      "index":202,
+      "text":"1) what you would expect to happen if you were under the influence of alcohol, and",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":44,
+      "index":203,
+      "text":"2) whether you think the effect is good or bad.",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":45,
+      "index":204,
+      "text":"A. Choose from “disagree to agree” depending on whether you expect the effect to happen to you if you were under the influence of alcohol. These effects will vary, depending on the amount of alcohol you typically consume. Circle one answer for the first set of numbers after each statement.",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":46,
+      "index":205,
+      "text":" 1= Disagree, 2=Slightly Disagree, 3= Slightly Agree, 4= Agree",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":47,
+      "index":206,
+      "text":"IF I WERE UNDER THE INFLUENCE FROM DRINKING ALCOHOL:",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":75,
+          "text":"2",
+          "value":1
+        },
+        {
+          "id":74,
+          "text":"1",
+          "value":0
+        },
+        {
+          "id":77,
+          "text":"4",
+          "value":3
+        },
+        {
+          "id":76,
+          "text":"3",
+          "value":2
+        }
+      ],
+      "subquestions":[
+        {
+          "id":66,
+          "text":"I would take risks.",
+          "answer":null
+        },
+        {
+          "id":65,
+          "text":"I would be a better lover.",
+          "answer":null
+        },
+        {
+          "id":59,
+          "text":"I would be courageous.",
+          "answer":null
+        },
+        {
+          "id":61,
+          "text":"I would feel guilty.",
+          "answer":null
+        },
+        {
+          "id":55,
+          "text":"I would be clumsy.",
+          "answer":null
+        },
+        {
+          "id":64,
+          "text":"It would be easier to talk to people.",
+          "answer":null
+        },
+        {
+          "id":56,
+          "text":"I would be loud, boisterous, or noisy.",
+          "answer":null
+        },
+        {
+          "id":58,
+          "text":"I would be brave and daring.",
+          "answer":null
+        },
+        {
+          "id":57,
+          "text":"I would feel peaceful.",
+          "answer":null
+        },
+        {
+          "id":67,
+          "text":"I would act sociable.",
+          "answer":null
+        },
+        {
+          "id":53,
+          "text":"I would enjoy sex more.",
+          "answer":null
+        },
+        {
+          "id":60,
+          "text":"I would act agressively.",
+          "answer":null
+        },
+        {
+          "id":62,
+          "text":"I would feel calm.",
+          "answer":null
+        },
+        {
+          "id":54,
+          "text":"I would feel dizzy.",
+          "answer":null
+        },
+        {
+          "id":63,
+          "text":"I would feel moody.",
+          "answer":null
+        }
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":48,
+      "index":207,
+      "text":"B. Choose from “bad to good” depending on whether you think the particular effect is bad, neutral, good, etc.  We want to know if you think a particular effect is bad or good, regardless of whether or not you expect it to happen to you. Circle only one answer for the last set of numbers after each statement.",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":49,
+      "index":208,
+      "text":"1= Bad, 2= Slightly  Bad, 3= Neutral, 4= Slightly Good, 5= Good",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"cea",
+      "strId":null
+    },
+    {
+      "id":50,
+      "index":209,
+      "text":"IF I WERE UNDER THE INFLUENCE FROM DRINKING ALCOHOL:",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":82,
+          "text":"5",
+          "value":4
+        },
+        {
+          "id":79,
+          "text":"2",
+          "value":1
+        },
+        {
+          "id":78,
+          "text":"1",
+          "value":0
+        },
+        {
+          "id":81,
+          "text":"4",
+          "value":3
+        },
+        {
+          "id":80,
+          "text":"3",
+          "value":2
+        }
+      ],
+      "subquestions":[
+        {
+          "id":72,
+          "text":"I would feel peaceful.",
+          "answer":null
+        },
+        {
+          "id":79,
+          "text":"It would be easier to talk to people.",
+          "answer":null
+        },
+        {
+          "id":75,
+          "text":"I would act agressively.",
+          "answer":null
+        },
+        {
+          "id":82,
+          "text":"I would act sociable.",
+          "answer":null
+        },
+        {
+          "id":74,
+          "text":"I would be courageous.",
+          "answer":null
+        },
+        {
+          "id":78,
+          "text":"I would feel moody.",
+          "answer":null
+        },
+        {
+          "id":80,
+          "text":"I would be a better lover.",
+          "answer":null
+        },
+        {
+          "id":71,
+          "text":"I would be loud, boisterous, or noisy.",
+          "answer":null
+        },
+        {
+          "id":69,
+          "text":"I would feel dizzy.",
+          "answer":null
+        },
+        {
+          "id":70,
+          "text":"I would be clumsy.",
+          "answer":null
+        },
+        {
+          "id":68,
+          "text":"I would enjoy sex more.",
+          "answer":null
+        },
+        {
+          "id":81,
+          "text":"I would take risks.",
+          "answer":null
+        },
+        {
+          "id":73,
+          "text":"I would be brave and daring.",
+          "answer":null
+        },
+        {
+          "id":76,
+          "text":"I would feel guilty.",
+          "answer":null
+        },
+        {
+          "id":77,
+          "text":"I would feel calm.",
+          "answer":null
+        }
+      ],
+      "survey":"cea",
+      "strId":null
+    }
+  ]
+}

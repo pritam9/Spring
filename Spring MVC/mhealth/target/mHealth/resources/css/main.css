@@ -1,0 +1,174 @@
+/*
+*
+Created By: Niranjan Ravichandran
+Date: 11/01/2015
+*
+*/
+
+
+
+/*importing fonts*/
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,400,600);
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Puritan', sans-serif;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+a{
+  color: #888;
+}
+p{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+}
+.img{
+height: 170px;
+width: 150px;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+
+    .tab-side {
+    	padding-top:110px;
+    }
+
+    #vAlign{
+      vertical-align: middle;
+      padding-top: 10px;
+    }
+}
+
+
+/*intro-section style*/
+.intro-section {
+    height: auto;
+    padding-top: 100px;
+    text-align: center;
+    min-height: 300px;
+    color: #fff;
+}
+
+#intro-img{
+  padding-top: 20px;
+  max-width: 400px;
+  max-height: 550px;
+  padding-bottom: 30px;
+  visibility: hidden;
+}
+
+#vAlign{
+  vertical-align: middle;
+  padding-top: 120px;
+}
+/*about-section style*/
+
+.about-section {
+    height: auto;
+    padding-top: 100px;
+    text-align: center;
+    background: #e7e7e7;
+}
+
+.about-content{
+  text-align: justify;
+  padding: 20px, 0;
+  margin-bottom: 20px;
+}
+
+.side-Image{
+  max-height: 500px;
+}
+
+.iphone-div{
+  margin: auto;
+  clear: left;
+  visibility: hidden;
+}
+
+.tab-pane{
+  text-align: justify;
+  padding-bottom: 30px;
+}
+
+.btn-cs{
+  color: #fff;
+  background: #19b971;
+  padding: 10px;
+  -webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.btn-cs:hover{
+  color: #eee;
+  background: #06a860;
+}
+
+
+/*team-section style*/
+
+.team-section {
+    height: auto;
+    padding-top: 100px;
+    text-align: center;
+    background: #fff;
+    margin-bottom: 20px;
+}
+
+.dev-team{
+  padding-top: 30px;
+  background: #eee;
+  text-align: center;
+  padding-bottom: 30px;
+
+}
+
+#team-pic1, #team-pic2{
+  visibility: hidden;
+}
+
+/*contact-section style*/
+
+.contact-section {
+    height: auto;
+    padding-top: 30px;
+    text-align: center;
+    background: #19b971;
+    color: #eee;
+    padding-bottom: 40px;
+}
+
+/*footer image*/
+.footerwrap{
+  background: #2b2b2b;;
+  color: #ddd;
+  padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+
+
+/*overriding navbar syle*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+  background-color: #19b971 !important;
+  color: #fff !important;
+  border-radius: 2px;
+}

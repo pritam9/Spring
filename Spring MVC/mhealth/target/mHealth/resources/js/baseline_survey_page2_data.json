@@ -1,0 +1,523 @@
+{
+  "status":0,
+  "message":null,
+  "data":[
+    {
+      "id":19,
+      "index":36,
+      "text":"Approximately how many times have you used the following substances in the past 30 days?",
+      "type":5,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+        {
+          "id":15,
+          "text":"Alcohol",
+          "answer":null
+        },
+        {
+          "id":16,
+          "text":"Marijuana (weed, pot, hashish, hash oil) or synthetic marijuana (Spice, K2)",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":29,
+      "index":37,
+      "text":"\"Typical\" Two Week Substance Use Calendar",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":27,
+      "index":38,
+      "text":"Please enter the number of “standard drinks” (see chart) you had on each day and the number of hours\n\nyou spent drinking. Enter “0” if you did not drink.",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":28,
+      "index":39,
+      "text":"Please estimate how many hours you spent high or stoned on each day. Enter \"0\" if you did not use marijuana on that day.",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":20,
+      "index":40,
+      "text":"Typical Week 1",
+      "type":9,
+      "answer":null,
+      "options":[
+        {
+          "id":30,
+          "text":"Sunday",
+          "value":0
+        },
+        {
+          "id":31,
+          "text":"Monday",
+          "value":1
+        },
+        {
+          "id":33,
+          "text":"Wednesday",
+          "value":3
+        },
+        {
+          "id":35,
+          "text":"Friday",
+          "value":5
+        },
+        {
+          "id":32,
+          "text":"Tuesday",
+          "value":2
+        },
+        {
+          "id":34,
+          "text":"Thursday",
+          "value":4
+        },
+        {
+          "id":36,
+          "text":"Saturday",
+          "value":6
+        }
+      ],
+      "subquestions":[
+        {
+          "id":20,
+          "text":"Number of hours drinking",
+          "answer":null
+        },
+        {
+          "id":19,
+          "text":"Number of drinks:",
+          "answer":null
+        },
+        {
+          "id":21,
+          "text":"Number of hours under the influence of marijuana.",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":57,
+      "index":306,
+      "text":"Weight",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"ddq",
+      "strId":null
+    },
+    {
+      "id":58,
+      "index":307,
+      "text":"Gender",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"ddq",
+      "strId":null
+    },
+    {
+      "id":59,
+      "index":308,
+      "text":"Height",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"ddq",
+      "strId":null
+    },
+
+    {
+      "id":80,
+      "index":42,
+      "text":"Think of the time you drank the MOST in the past 30 days. Please fill in the number of “standard drinks” of each type\n\nyou consumed and the number of hours you spent drinking on that occasion.",
+      "type":5,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+        {
+          "id":120,
+          "text":"Wine",
+          "answer":null
+        },
+        {
+          "id":122,
+          "text":"Hours",
+          "answer":null
+        },
+        {
+          "id":121,
+          "text":"Spirit (hard liqour)",
+          "answer":null
+        },
+        {
+          "id":119,
+          "text":"Beer",
+          "answer":null
+        },
+        {
+          "id":240,
+          "text":"Malt Liqour",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":82,
+      "index":44,
+      "text":"Approximately how many hours do you sleep in a typical 24-hour period (including naps)?",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":83,
+      "index":45,
+      "text":"Your Time and Money",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":81,
+      "index":43,
+      "text":"Please estimate how much money you spend on alcohol during a typical week: ($)",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":84,
+      "index":46,
+      "text":"During a typical week, how many hours do you estimate that you spend:",
+      "type":9,
+      "answer":null,
+      "options":[
+        {
+          "id":191,
+          "text":"Total Hours In Typical Week",
+          "value":0
+        }
+      ],
+      "subquestions":[
+        {
+          "id":124,
+          "text":"Working (job, internship, etc.)",
+          "answer":null
+        },
+        {
+          "id":127,
+          "text":"Exercising and/or Playing Sports",
+          "answer":null
+        },
+        {
+          "id":125,
+          "text":"Studying and doing homework.",
+          "answer":null
+        },
+        {
+          "id":123,
+          "text":"In classes",
+          "answer":null
+        },
+        {
+          "id":128,
+          "text":"Socializing (hanging out with friends, going to parties and events, etc.)",
+          "answer":null
+        },
+        {
+          "id":126,
+          "text":"Extracurriculars (clubs, volunteering, etc.)",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":85,
+      "index":47,
+      "text":"Please estimate how much money you spend on marijuana during a typical week: ($)",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":86,
+      "index":48,
+      "text":"Please select the answer for each question that accurately describes your drinking pattern in the past year.",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":192,
+          "text":"Never",
+          "value":0
+        },
+        {
+          "id":195,
+          "text":"2-3 times a week",
+          "value":3
+        },
+        {
+          "id":193,
+          "text":"Monthly or less",
+          "value":1
+        },
+        {
+          "id":196,
+          "text":"4 or more times a week",
+          "value":4
+        },
+        {
+          "id":194,
+          "text":"2-4 times a month",
+          "value":2
+        }
+      ],
+      "subquestions":[
+        {
+          "id":129,
+          "text":"How often do you have a\n\ndrink containing alcohol?",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":87,
+      "index":49,
+      "text":"Please select the answer for each question that accurately describes your drinking pattern in the past year.",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":197,
+          "text":"1 or 2",
+          "value":0
+        },
+        {
+          "id":200,
+          "text":"7 to 9",
+          "value":3
+        },
+        {
+          "id":199,
+          "text":"5 or 6",
+          "value":2
+        },
+        {
+          "id":198,
+          "text":"3 or 4",
+          "value":1
+        },
+        {
+          "id":201,
+          "text":"10 or more",
+          "value":4
+        }
+      ],
+      "subquestions":[
+        {
+          "id":130,
+          "text":"How many standard drinks do\n\nyou have on a typical day\n\nwhen you are drinking?",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":88,
+      "index":50,
+      "text":"Please select the answer for each question that accurately describes your drinking pattern in the past year.",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":205,
+          "text":"Weekly",
+          "value":3
+        },
+        {
+          "id":203,
+          "text":"Less than Monthly",
+          "value":1
+        },
+        {
+          "id":204,
+          "text":"Monthly",
+          "value":2
+        },
+        {
+          "id":202,
+          "text":"Never",
+          "value":0
+        },
+        {
+          "id":206,
+          "text":"Daily or Almost Daily",
+          "value":4
+        }
+      ],
+      "subquestions":[
+        {
+          "id":131,
+          "text":"How often do you have six or\n\nmore standard drinks on one\n\noccasion?",
+          "answer":null
+        },
+        {
+          "id":134,
+          "text":"How often during the last year\n\nhave you needed a first drink\n\nin the morning to get yourself\n\ngoing after a heavy drinking\n\nsession?",
+          "answer":null
+        },
+        {
+          "id":136,
+          "text":"How often during the last year\n\nhave you been unable to\n\nremember what happened the\n\nnight before because you had\n\nbeen drinking?",
+          "answer":null
+        },
+        {
+          "id":135,
+          "text":"How often during the last year\n\nhave you had a feeling of guilt\n\nor remorse after drinking?",
+          "answer":null
+        },
+        {
+          "id":132,
+          "text":"How often during the last year\n\nhave you found that you were\n\nnot able to stop drinking once\n\nyou had started?",
+          "answer":null
+        },
+        {
+          "id":133,
+          "text":"How often during the last year\n\nhave you failed to do what\n\nwas normally expected of you\n\nbecause of drinking?",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":89,
+      "index":51,
+      "text":"Please select the answer for each question that accurately describes your drinking pattern in the past year.",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":208,
+          "text":"Yes, but not in the last year",
+          "value":2
+        },
+        {
+          "id":207,
+          "text":"No",
+          "value":0
+        },
+        {
+          "id":209,
+          "text":"Yes, during the last year",
+          "value":4
+        }
+      ],
+      "subquestions":[
+        {
+          "id":137,
+          "text":"Have you or someone else been injured because of your drinking?",
+          "answer":null
+        },
+        {
+          "id":138,
+          "text":"Has a relative, friend, doctor, or other health care worker been\n\nconcerned about your drinking or suggested you cut down?",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    }
+  ]
+}

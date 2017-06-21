@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+    <class name="TriviaQuestion" table="trivia_questions">
+        <id name="trivia_id" column="trivia_id">
+            <generator class="native"/>
+        </id>
+        <property name="trivia_id" column="trivia_id" insert="false" update="false"/>
+        <property name="category" column="category" />
+        <property name="text" column="TEXT" />
+        <property name="answer" column="answer" />
+        <property name="explanation" column="explanation" />
+        <!--  --><property name="options_json" column="options_json" />
+        <set name="options" table="trivia_options"
+            inverse="true" lazy="false" fetch="select">
+            <key>
+                <column name="trivia_id" not-null="true" />
+            </key>
+            <one-to-many class="com.uncc.mhealth.model.TriviaOption" />
+        </set>
+    </class>
+</hibernate-mapping>

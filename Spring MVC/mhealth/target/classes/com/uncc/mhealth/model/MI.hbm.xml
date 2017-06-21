@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+    <class name="MI" table="mi">
+        <id name="id" column="mi_id">
+            <generator class="native"/>
+        </id>
+        <property name="id" column="mi_id" insert="false" update="false"/>
+        <property name="text" column="TEXT" />
+        <property name="type" column="TYPE" />
+        <property name="option_type" column="option_type" />
+        <property name="title" column="TITLE" />
+        <property name="answer" column="ANSWER" />
+        <property name="dateTime" column="date_time" />
+        <property name="next" column="next" />
+        <set name="mioptions" table="mioptions"
+            inverse="true" lazy="false" fetch="select">
+            <key>
+                <column name="mi_id" not-null="true" />
+            </key>
+            <one-to-many class="com.uncc.mhealth.model.MIOption" />
+        </set>
+        
+    </class>
+</hibernate-mapping>

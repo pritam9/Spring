@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+    <class name="SubQuestion" table="subquestions">
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+        <property name="text" column="text" />
+        <property name="answer" column="answer" />
+        <property name="orderNo" column="orderNo" />
+        <property name="active_yn" column="active_yn" />
+    </class> 
+</hibernate-mapping>

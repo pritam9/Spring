@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.uncc.mhealth.model">
+	<class name="UserSurveyResponse" table="UserSurveyResponse">
+		<composite-id>
+			<key-property name="id" column="id" />
+			<key-property name="survey" column="survey" />
+			<key-property name="questionId" column="questionId" />
+			<key-property name="subQuestionId" column="subQuestionId"/>
+		</composite-id>
+		<property name="answer" column="answer" />
+		<property name="subAnswer" column="subAnswer" />
+	</class>
+</hibernate-mapping>

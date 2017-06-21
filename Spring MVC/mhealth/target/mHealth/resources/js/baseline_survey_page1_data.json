@@ -1,0 +1,1391 @@
+{
+  "status":0,
+  "message":null,
+  "data":[
+    {
+      "id":36,
+      "index":-2,
+      "text":"Please indicate that you have read and understand this section on Confidentiality:",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":61,
+          "text":"No",
+          "value":1
+        },
+        {
+          "id":60,
+          "text":"Yes",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":22,
+      "index":0,
+      "text":"Personal Demographics:",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":23,
+      "index":1,
+      "text":"Please enter your name",
+      "type":4,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+        {
+          "id":27,
+          "text":"Last Name",
+          "answer":null
+        },
+        {
+          "id":26,
+          "text":"First Name",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":5,
+      "index":2,
+      "text":"Birth Sex. We ask this question in order to calculate your blood alcohol concentration.",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":11,
+          "text":"Male",
+          "value":0
+        },
+        {
+          "id":12,
+          "text":"Female",
+          "value":1
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":108,
+      "index":2,
+      "text":"Please indicate your race:",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":286,
+          "text":"African American",
+          "value":1
+        },
+        {
+          "id":290,
+          "text":"White",
+          "value":5
+        },
+        {
+          "id":291,
+          "text":"Other",
+          "value":6
+        },
+        {
+          "id":288,
+          "text":"Hispanic",
+          "value":3
+        },
+        {
+          "id":287,
+          "text":"Asian",
+          "value":2
+        },
+        {
+          "id":289,
+          "text":"Pacific Islander",
+          "value":4
+        },
+        {
+          "id":285,
+          "text":"Caucasian",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null,
+      "ignore":false
+    },
+    {
+      "id":6,
+      "index":3,
+      "text":"Where is your hometown?",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":7,
+      "index":4,
+      "text":"Current Age (in Years):",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":109,
+      "index":4,
+      "text":"How old were you when you first starting drinking (not counting small tastes or sips of alcohol)? (in Years)",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":8,
+      "index":5,
+      "text":"Please enter your current weight. (Used for BAC and other calculations).",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":59,
+      "index":308,
+      "text":"Height",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"ddq",
+      "strId":null
+    },
+    {
+      "id":9,
+      "index":6,
+      "text":"Please type in any medications you take on a regular basis. If you do not take any medications, please leave blank.",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":10,
+      "index":7,
+      "text":"What is your year in school?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":15,
+          "text":"Junior",
+          "value":2
+        },
+        {
+          "id":14,
+          "text":"Sophomore",
+          "value":1
+        },
+        {
+          "id":13,
+          "text":"Freshman",
+          "value":0
+        },
+        {
+          "id":16,
+          "text":"Senior",
+          "value":3
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":11,
+      "index":8,
+      "text":"What is your major?",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":12,
+      "index":9,
+      "text":"What is your cumulative GPA?",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":13,
+      "index":10,
+      "text":"Do you have a part-time or full-time job?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":19,
+          "text":"no",
+          "value":1
+        },
+        {
+          "id":18,
+          "text":"yes",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":14,
+      "index":11,
+      "text":"Do you live on or off campus?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":21,
+          "text":"On Campus",
+          "value":1
+        },
+        {
+          "id":20,
+          "text":"Off Campus",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":15,
+      "index":12,
+      "text":"If you live on campus, which residence hall do you live in?",
+      "type":2,
+      "answer":null,
+      "options":[
+        {
+          "id":108,
+          "text":"Martin Hall",
+          "value":10
+        },
+        {
+          "id":103,
+          "text":"Hunt Hall",
+          "value":5
+        },
+        {
+          "id":105,
+          "text":"Levine Hall",
+          "value":7
+        },
+        {
+          "id":26,
+          "text":"Greek Village",
+          "value":2
+        },
+        {
+          "id":104,
+          "text":"Laurel Hall",
+          "value":6
+        },
+        {
+          "id":24,
+          "text":"Belk Hall",
+          "value":0
+        },
+        {
+          "id":102,
+          "text":"Holshouser Hall",
+          "value":4
+        },
+        {
+          "id":112,
+          "text":"Pine Hall",
+          "value":14
+        },
+        {
+          "id":110,
+          "text":"Moore Hall",
+          "value":12
+        },
+        {
+          "id":107,
+          "text":"Maple Hall",
+          "value":9
+        },
+        {
+          "id":109,
+          "text":"Miltimore Hall",
+          "value":11
+        },
+        {
+          "id":114,
+          "text":"Scott Hall",
+          "value":16
+        },
+        {
+          "id":113,
+          "text":"Sanford Hall",
+          "value":15
+        },
+        {
+          "id":115,
+          "text":"Wallis Hall",
+          "value":17
+        },
+        {
+          "id":101,
+          "text":"Hawthorn Hall",
+          "value":3
+        },
+        {
+          "id":111,
+          "text":"Oak Hall",
+          "value":13
+        },
+        {
+          "id":116,
+          "text":"Witherspoon Hall",
+          "value":18
+        },
+        {
+          "id":25,
+          "text":"Elm Hall",
+          "value":1
+        },
+        {
+          "id":106,
+          "text":"Lynch Hall",
+          "value":8
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":30,
+      "index":13,
+      "text":"Are you a member of a Fraternity or Sorority?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":37,
+          "text":"Yes",
+          "value":0
+        },
+        {
+          "id":38,
+          "text":"No",
+          "value":1
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":31,
+      "index":14,
+      "text":"Which fraternity or sorority are you a member of?",
+      "type":2,
+      "answer":null,
+      "options":[
+        {
+          "id":41,
+          "text":"Alpha Kappa Alpha",
+          "value":2
+        },
+        {
+          "id":147,
+          "text":"Triangle",
+          "value":34
+        },
+        {
+          "id":144,
+          "text":"Sigma Kappa",
+          "value":31
+        },
+        {
+          "id":39,
+          "text":"Alpha Chi Omega",
+          "value":0
+        },
+        {
+          "id":139,
+          "text":"Pi Kappa Phi",
+          "value":26
+        },
+        {
+          "id":126,
+          "text":"Kappa Delta",
+          "value":13
+        },
+        {
+          "id":142,
+          "text":"Sigma Alpha Epsilon",
+          "value":29
+        },
+        {
+          "id":145,
+          "text":"Sigma Phi Epsilon",
+          "value":32
+        },
+        {
+          "id":134,
+          "text":"Phi Beta Sigma",
+          "value":21
+        },
+        {
+          "id":124,
+          "text":"Kappa Alpha Order",
+          "value":11
+        },
+        {
+          "id":137,
+          "text":"Phi Sigma Kappa",
+          "value":24
+        },
+        {
+          "id":125,
+          "text":"Kappa Alpha Psi",
+          "value":12
+        },
+        {
+          "id":132,
+          "text":"Omega Phi Beta",
+          "value":19
+        },
+        {
+          "id":141,
+          "text":"Sigma Gamma Rho",
+          "value":28
+        },
+        {
+          "id":133,
+          "text":"Omega Psi Phi",
+          "value":20
+        },
+        {
+          "id":140,
+          "text":"Psi Sigma Phi",
+          "value":27
+        },
+        {
+          "id":120,
+          "text":"Delta Chi",
+          "value":7
+        },
+        {
+          "id":146,
+          "text":"Sigma Tau Gamma",
+          "value":33
+        },
+        {
+          "id":130,
+          "text":"Lambda Theta Phi",
+          "value":17
+        },
+        {
+          "id":135,
+          "text":"Phi Delta Theta",
+          "value":22
+        },
+        {
+          "id":131,
+          "text":"Mu Sigma Upsilon",
+          "value":18
+        },
+        {
+          "id":42,
+          "text":"Alpha Phi Alpha",
+          "value":3
+        },
+        {
+          "id":127,
+          "text":"Kappa Sigma",
+          "value":14
+        },
+        {
+          "id":121,
+          "text":"Delta Phi Lambda",
+          "value":8
+        },
+        {
+          "id":149,
+          "text":"Zeta Phi Beta",
+          "value":36
+        },
+        {
+          "id":150,
+          "text":"Zeta Tau Alpha",
+          "value":37
+        },
+        {
+          "id":129,
+          "text":"Lambda Theta Alpha",
+          "value":16
+        },
+        {
+          "id":143,
+          "text":"Sigma Chi",
+          "value":30
+        },
+        {
+          "id":122,
+          "text":"Delta Sigma Theta",
+          "value":9
+        },
+        {
+          "id":128,
+          "text":"Lambda Chi Alpha",
+          "value":15
+        },
+        {
+          "id":118,
+          "text":"Alpha Sigma Phi",
+          "value":5
+        },
+        {
+          "id":117,
+          "text":"Alpha Omega Epsilon",
+          "value":4
+        },
+        {
+          "id":148,
+          "text":"Zeta Beta Tau",
+          "value":35
+        },
+        {
+          "id":123,
+          "text":"Delta Zeta",
+          "value":10
+        },
+        {
+          "id":136,
+          "text":"Phi Mu Alpha",
+          "value":23
+        },
+        {
+          "id":40,
+          "text":"Alpha Delta Pi",
+          "value":1
+        },
+        {
+          "id":138,
+          "text":"Pi Alpha Phi",
+          "value":25
+        },
+        {
+          "id":119,
+          "text":"Chi Omega",
+          "value":6
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":32,
+      "index":15,
+      "text":"Do you play sports?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":43,
+          "text":"Yes",
+          "value":0
+        },
+        {
+          "id":44,
+          "text":"No",
+          "value":1
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":33,
+      "index":16,
+      "text":"If you play sports, then do you play for Charlotte 49ers Athletics?",
+      "type":2,
+      "answer":null,
+      "options":[
+        {
+          "id":153,
+          "text":"Softball",
+          "value":7
+        },
+        {
+          "id":151,
+          "text":"Indoor and Outdoor Track and Field",
+          "value":5
+        },
+        {
+          "id":48,
+          "text":"Football",
+          "value":3
+        },
+        {
+          "id":152,
+          "text":"Soccer",
+          "value":6
+        },
+        {
+          "id":47,
+          "text":"Cross Country",
+          "value":2
+        },
+        {
+          "id":155,
+          "text":"Volleyball",
+          "value":9
+        },
+        {
+          "id":46,
+          "text":"Basketball",
+          "value":1
+        },
+        {
+          "id":45,
+          "text":"Baseball",
+          "value":0
+        },
+        {
+          "id":49,
+          "text":"Golf",
+          "value":4
+        },
+        {
+          "id":154,
+          "text":"Tennis",
+          "value":8
+        },
+        {
+          "id":274,
+          "text":"None of the above",
+          "value":10
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":34,
+      "index":17,
+      "text":"If you play sports, then do you play for intramural/club sports?",
+      "type":2,
+      "answer":null,
+      "options":[
+        {
+          "id":53,
+          "text":"Bowling",
+          "value":3
+        },
+        {
+          "id":157,
+          "text":"Kickball",
+          "value":6
+        },
+        {
+          "id":50,
+          "text":"Badminton",
+          "value":0
+        },
+        {
+          "id":52,
+          "text":"Billiards",
+          "value":2
+        },
+        {
+          "id":158,
+          "text":"Mini Golf",
+          "value":7
+        },
+        {
+          "id":160,
+          "text":"Soccer",
+          "value":9
+        },
+        {
+          "id":163,
+          "text":"Volleyball",
+          "value":12
+        },
+        {
+          "id":51,
+          "text":"Basketball",
+          "value":1
+        },
+        {
+          "id":54,
+          "text":"Frisbee Golf",
+          "value":4
+        },
+        {
+          "id":161,
+          "text":"Softball",
+          "value":10
+        },
+        {
+          "id":162,
+          "text":"Tennis",
+          "value":11
+        },
+        {
+          "id":159,
+          "text":"Rugby",
+          "value":8
+        },
+        {
+          "id":156,
+          "text":"Flag Football",
+          "value":5
+        },
+        {
+          "id":275,
+          "text":"None of the above",
+          "value":13
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":107,
+      "index":1,
+      "text":"Please select your preferred timing to receive messages from SmarTrek",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":280,
+          "text":"2.00 PM - 3.15 PM",
+          "value":4
+        },
+        {
+          "id":276,
+          "text":"8.00 AM -9.15 AM",
+          "value":0
+        },
+        {
+          "id":279,
+          "text":"12.30 PM - 1.45 PM",
+          "value":3
+        },
+        {
+          "id":282,
+          "text":"5.00 PM - 6.15 PM",
+          "value":6
+        },
+        {
+          "id":283,
+          "text":"6.30 PM - 7.45 PM",
+          "value":7
+        },
+        {
+          "id":284,
+          "text":"8.00 PM - 9.15 PM",
+          "value":8
+        },
+        {
+          "id":278,
+          "text":"11.00 AM - 12.15 PM",
+          "value":2
+        },
+        {
+          "id":281,
+          "text":"3.30 PM - 4.45 PM",
+          "value":5
+        },
+        {
+          "id":277,
+          "text":"9.30 AM - 10.45 AM",
+          "value":1
+        }
+      ],
+      "subquestions":[
+        {
+          "id":241,
+          "text":"Monday",
+          "answer":null
+        },
+        {
+          "id":242,
+          "text":"Tuesday",
+          "answer":null
+        },
+        {
+          "id":243,
+          "text":"Wednesday",
+          "answer":null
+        },
+        {
+          "id":244,
+          "text":"Thursday",
+          "answer":null
+        },
+        {
+          "id":245,
+          "text":"Friday",
+          "answer":null
+        },
+        {
+          "id":246,
+          "text":"Saturday",
+          "answer":null
+        },
+        {
+          "id":247,
+          "text":"Sunday",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null,
+      "ignore":false
+    },
+    {
+      "id":35,
+      "index":18,
+      "text":"How would you rate your overall wellness?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":57,
+          "text":"Good",
+          "value":2
+        },
+        {
+          "id":55,
+          "text":"Poor",
+          "value":0
+        },
+        {
+          "id":58,
+          "text":"Very Good",
+          "value":3
+        },
+        {
+          "id":56,
+          "text":"Fair",
+          "value":1
+        },
+        {
+          "id":59,
+          "text":"Excellent",
+          "value":4
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+
+    {
+      "id":16,
+      "index":19,
+      "text":"During the past 30 days, not due to your use of alcohol or other drugs, how many days have you:",
+      "type":5,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+        {
+          "id":6,
+          "text":"Experienced serious hallucinations",
+          "answer":null
+        },
+        {
+          "id":113,
+          "text":"Experienced trouble controlling violent behavior",
+          "answer":null
+        },
+        {
+          "id":114,
+          "text":"Considered Suicide",
+          "answer":null
+        },
+        {
+          "id":5,
+          "text":"Experienced serious anxiety or tension",
+          "answer":null
+        },
+        {
+          "id":4,
+          "text":"Experienced serious depression",
+          "answer":null
+        },
+        {
+          "id":112,
+          "text":"Experienced serious trouble concentrating or remembering",
+          "answer":null
+        },
+        {
+          "id":115,
+          "text":"Attempted Suicide",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":66,
+      "index":20,
+      "text":"In the last 30 days have you engaged in sexual activity?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":165,
+          "text":"no",
+          "value":1
+        },
+        {
+          "id":164,
+          "text":"yes",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":67,
+      "index":21,
+      "text":"If so, how many contacts were unprotected (including oral sex)?",
+      "type":1,
+      "answer":null,
+      "ignore":true,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":68,
+      "index":22,
+      "text":"If you engaged in unprotected sex, how many encounters were with a person who was high on some substance (including alcohol)?",
+      "type":1,
+      "answer":null,
+      "ignore":true,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":69,
+      "index":23,
+      "text":"Have you ever been tested for HIV?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":167,
+          "text":"no",
+          "value":1
+        },
+        {
+          "id":166,
+          "text":"yes",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":70,
+      "index":24,
+      "text":"Tell me about your family (married/divorced; siblings; parents thoughts on the incidents):",
+      "type":0,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":17,
+      "index":25,
+      "text":"How many of your blood relatives have now, or had in the past, what you would consider an alcohol or drug\n\nuse problem?",
+      "type":5,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+        {
+          "id":7,
+          "text":"Parents",
+          "answer":null
+        },
+        {
+          "id":9,
+          "text":"Grand parents",
+          "answer":null
+        },
+        {
+          "id":8,
+          "text":"brothers and Sisters",
+          "answer":null
+        },
+        {
+          "id":10,
+          "text":"Uncle or Aunts",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":71,
+      "index":26,
+      "text":"At what age did you take your first drink ?",
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":72,
+      "index":27,
+      "text":"Any previous alcohol or drug sanctions?",
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":168,
+          "text":"yes",
+          "value":0
+        },
+        {
+          "id":169,
+          "text":"no",
+          "value":1
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":73,
+      "index":28,
+      "text":"Please explain the incident ?",
+      "type":0,
+      "answer":null,
+      "ignore":true,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":74,
+      "index":29,
+      "text":"Date of Incident",
+      "type":0,
+      "answer":null,
+      "ignore":true,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":75,
+      "index":30,
+      "text":"Type of Violation",
+      "ignore":true,
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":178,
+          "text":"Alcohol and Marijuana",
+          "value":3
+        },
+        {
+          "id":175,
+          "text":"Alcohol",
+          "value":0
+        },
+        {
+          "id":176,
+          "text":"Marijuana",
+          "value":1
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":76,
+      "index":31,
+      "text":"Was your Blood Alcohol Concentration (BAC) taken?",
+      "ignore":true,
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":181,
+          "text":"no",
+          "value":1
+        },
+        {
+          "id":180,
+          "text":"yes",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":77,
+      "index":32,
+      "text":"If so, what was your BAC?",
+      "ignore":true,
+      "type":1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":78,
+      "index":33,
+      "text":"Did you get transported to the hospital?",
+      "ignore":true,
+      "type":3,
+      "answer":null,
+      "options":[
+        {
+          "id":183,
+          "text":"no",
+          "value":1
+        },
+        {
+          "id":182,
+          "text":"yes",
+          "value":0
+        }
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":24,
+      "index":34,
+      "text":"Your Frequency of Alcohol and Marijuana Use:",
+      "type":-1,
+      "answer":null,
+      "options":[
+
+      ],
+      "subquestions":[
+
+      ],
+      "survey":"baseline",
+      "strId":null
+    },
+    {
+      "id":18,
+      "index":35,
+      "text":"Please indicate how often you have used the following substances. Choose one response for each row.",
+      "type":7,
+      "answer":null,
+      "options":[
+        {
+          "id":29,
+          "text":"Have used in the last 30 days",
+          "value":2
+        },
+        {
+          "id":27,
+          "text":"Never Used",
+          "value":0
+        },
+        {
+          "id":28,
+          "text":"Have used, but not in the last 30 days",
+          "value":1
+        }
+      ],
+      "subquestions":[
+        {
+          "id":11,
+          "text":"Alcohol",
+          "answer":null
+        },
+        {
+          "id":12,
+          "text":"Marijuana (weed, pot, hashish, hash oil) or synthetic marijuana (Spice, K2)",
+          "answer":null
+        }
+      ],
+      "survey":"baseline",
+      "strId":null
+    }
+  ]
+}

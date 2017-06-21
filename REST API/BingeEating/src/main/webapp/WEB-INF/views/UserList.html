@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+    <link rel="stylesheet" href="css/bootflat.css">
+    <link rel="stylesheet" href="css/bootflat.min.css">
+
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/site.css">
+    <link rel="stylesheet" href="../css/site.min.css">
+
+
+
+</head>
+<body>
+
+
+<div class="row">
+    <div class="col-md-12">
+        <nav class="navbar navbar-inverse" role="navigation">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-5">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <img src="../img/logo.PNG" height="50" width="50" id="logo"/>
+
+
+                    <a href="UserList.html" class="page-header" style="color: #ffffff; size: 10px"> The Women Health Project</a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-5" style="width: 100%;">
+                    <ul class="nav navbar-nav" style="float:right;">
+
+
+                        <button type="button" class="btn btn-warning navbar-btn">Logout</button>
+
+                    </ul>
+
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </div>
+</div>
+<div class = col-md-12>
+
+    <div class="col-md-8">
+        <div class="panel">
+            <ul id="myTab1" class="nav nav-tabs nav-justified">
+                <li class=""><a href="#foodDetails" data-toggle="tab">Food Detail</a></li>
+                <li class="active"><a href="#physicalActivity" data-toggle="tab">Physical Activity </a></li>
+                <li class=""><a href="#weeklyReport" data-toggle="tab">Weekly Report </a></li>
+                <li class=""><a href="#sendNotification" data-toggle="tab">Send Notification</a></li>
+            </ul>
+            <div id="foodDetail" class="tab-content">
+                <div class="tab-pane fade" id="foodDetails">
+                    <label for="from">From</label>
+                    <input type="text" id="from" name="from">
+                    <label for="to">to</label>
+                    <input type="text" id="to" name="to">
+                    <button type="button" class="btn btn-info" id="foodGo">Search</button>
+
+                    <div class="panel panel-default">
+                        <table class="table">
+                            <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>User Id</th>
+                                <th>Appointment Time</th>
+                                <th>User Details</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Mark</td>
+                                <td>9:00</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Jacob</td>
+                                <td>9:30</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Larry</td>
+                                <td>10:00</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            </tbody>
+
+
+                        </table>
+                    </div>
+                </div>
+                <div class="tab-pane fade active in" id="physicalActivity">
+                    <div class="panel panel-default">
+
+                        <label for="from">From</label>
+                        <input type="text" id="from" name="from">
+                        <label for="to">to</label>
+                        <input type="text" id="to" name="to">
+                        <button type="button" class="btn btn-info" id="foodGo">Search</button>
+
+                        <table class="table">
+                            <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Time</th>
+                                <th>Appointment Date</th>
+                                <th>User Details</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Mark</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Jacob</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Larry</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                    </div>
+
+                </div>
+                <div class="tab-pane fade " id="weeklyReport">
+                    <div class="panel panel-default">
+                        <table class="table">
+                            <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Time</th>
+                                <th>Appointment Date</th>
+                                <th>User Details</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Mark</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Jacob</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Larry</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            </tbody>
+
+
+                        </table>
+
+                        <div id="curve_chart" style="width: 900px; height: 500px"></div>
+                    </div>
+                </div>
+                <div class="tab-pane fade " id="sendNotification" style="padding-bottom: 10px">
+                    <div class="panel panel-default">
+                        <table class="table">
+                            <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Time</th>
+                                <th>Appointment Date</th>
+                                <th>User Details</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Mark</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Jacob</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Larry</td>
+                                <td>12/5/2016</td>
+                                <td><a href="foodDetails.html">User Details</a></td>
+                            </tr>
+                            </tbody>
+
+
+                        </table>
+                        <form>
+                            <div class="col-lg-12" style="margin: 10px">
+                                <label>Message</label> <input type="text" size="80%">
+                                <button>Send</button>
+                            </div>
+
+                        </form>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+    <div class="row" style="right: 0px;">
+        <div class="col-md-4">
+            <div class="panel">
+                <ul id="userTab" class="nav nav-tabs nav-justified">
+                    <li class=""><a href="#sameDayUser" data-toggle="tab">Same Day User</a></li>
+                    <li class="active"><a href="#allUser" data-toggle="tab">All User </a></li>
+                    <!--<li class=""><a href="#appointment" data-toggle="tab">Book Appointment </a></li>-->
+
+                </ul>
+                <div id="userTabContent" class="tab-content">
+                    <div class="tab-pane fade" id="sameDayUser">
+                        <label >Date</label>
+                        <input type="text" id="datepicker">
+                        <div class="panel panel-default">
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>User Id</th>
+                                    <th>Appointment Time</th>
+                                    <th>User Details</th>
+                                    <th>Status</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Mark</td>
+                                    <td>9:00</td>
+                                    <td><a href="foodDetails.html">User Details</a></td>
+                                    <td>
+                                        <button type="button" class="btn btn-info btn-xs"id="visited">Visited</button>
+                                        <button type="button" class="btn btn-info btn-xs"id="notvisited">Not Visited</button>
+
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Jacob</td>
+                                    <td>9:30</td>
+                                    <td><a href="foodDetails.html">User Details</a></td>
+                                    <td>
+                                        <button type="button" class="btn btn-info btn-xs"id="visited">Visited</button>
+                                        <button type="button" class="btn btn-info btn-xs"id="notvisited">Not Visited</button>
+
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Larry</td>
+                                    <td>10:00</td>
+                                    <td><a href="foodDetails.html">User Details</a></td>
+                                    <td>
+                                        <button type="button" class="btn btn-info btn-xs"id="visited">Visited</button>
+                                        <button type="button" class="btn btn-info btn-xs"id="notvisited">Not Visited</button>
+
+
+                                    </td>
+                                </tr>
+                                </tbody>
+
+
+                            </table>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade active in" id="allUser">
+                        <div class="panel panel-default">
+
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>User Id</th>
+                                    <th>Appointment Date</th>
+                                    <th>User Details</th>
+                                    <th>Book Appointment</th>
+
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Mark</td>
+                                    <td>12/5/2016</td>
+                                    <td><a href="foodDetails.html">Details</a></td>
+                                    <td><button type="button" class="btn btn-info" id="bookAppointment">Book Appointment</button></td>
+
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Jacob</td>
+                                    <td>12/5/2016</td>
+                                    <td><a href="foodDetails.html">Details</a></td>
+                                    <td><button type="button" class="btn btn-info"id="bookAppointment">Book Appointment</button></td>
+
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Larry</td>
+                                    <td>12/5/2016</td>
+                                    <td><a href="foodDetails.html">Details</a></td>
+                                    <td><button type="button" class="btn btn-info"id ="bookAppointment">Book Appointment</button></td>
+
+                                </tr>
+                                </tbody>
+
+
+                            </table>
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div id="myModal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+        <div class="modal-header">
+            <span class="close">&times;</span>
+            <h3><center><b>Book Appointment</b></center></h3>
+        </div>
+
+        <div class="modal-body">
+            <table class="modal-body" align="center">
+
+                <tr>
+                    <td>
+                        <label style="margin: 10px">User Id</label>
+                    </td>
+                    <td>
+                        :- 1
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label style="margin: 10px">Date</label>
+                    </td>
+                    <td>
+                        <input type="text" id="datepickerAppointment">
+
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label style="margin: 10px">Time</label>
+                    </td>
+                    <td>
+                        <input type="" style="margin-bottom: 10px;">
+                    </td>
+                </tr>
+            </table>
+            <center>                <button type="submit" class="btn btn-primary">Submit</button>
+            </center>
+        </div>
+    </div>
+
+</div>
+<script src="js/icheck.min.js"></script>
+<script src="js/jquery.fs.selecter.min.js"></script>
+<script src="js/jquery.fs.stepper.min.js"></script>
+<script src="../js/application.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/html5shiv.js"></script>
+<script src="../js/jquery-1.10.1.min.js"></script>
+<script src="../js/respond.min.js"></script>
+<script src="../js/site.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script type="text/javascript">
+    // Get the modal
+    var modal = document.getElementById('myModal');
+
+    // Get the button that opens the modal
+    var btn = document.getElementById("bookAppointment");
+
+    console.log(btn);
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When the user clicks the button, open the modal
+    btn.onclick = function() {
+        modal.style.display = "block";
+        console.log("click");
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+        modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+</script>
+
+
+
+
+
+<!--datepicker-->
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+    $( function datePicker(){
+        $( "#datepicker" ).datepicker({
+            showButtonPanel: true
+        });
+    } );
+    $( function() {
+        $( "#datepickerAppointment" ).datepicker({
+            showButtonPanel: true
+        });
+    } );
+
+
+    $( function() {
+        var dateFormat = "mm/dd/yy",
+                from = $( "#from" )
+                        .datepicker({
+                            defaultDate: "+1w",
+                            changeMonth: true,
+                            numberOfMonths: 3
+                        })
+                        .on( "change", function() {
+                            to.datepicker( "option", "minDate", getDate( this ) );
+                        }),
+                to = $( "#to" ).datepicker({
+                    defaultDate: "+1w",
+                    changeMonth: true,
+                    numberOfMonths: 3
+                })
+                        .on( "change", function() {
+                            from.datepicker( "option", "maxDate", getDate( this ) );
+                        });
+
+        function getDate( element ) {
+            var date;
+            try {
+                date = $.datepicker.parseDate( dateFormat, element.value );
+            } catch( error ) {
+                date = null;
+            }
+
+            return date;
+        }
+    } );
+
+
+</script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+            ['Year', 'Binge', 'V/L/D','GoodDays'],
+            ['2004',  1000,      400,4],
+            ['2005',  1170,      460,5],
+            ['2006',  660,       1120,6],
+            ['2007',  1030,      540,7]
+        ]);
+
+        var options = {
+            title: 'WeeklyReport',
+            curveType: 'function',
+            legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+    }
+</script>
+
+</body>
+</html>
